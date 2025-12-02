@@ -235,12 +235,15 @@ This will check:
 
 ### Video Preview Modal
 Beautiful preview with thumbnail, video info, and confirmation before downloading.
+<img width="1140" height="429" alt="image" src="https://github.com/user-attachments/assets/045ea55b-7b13-475a-a176-6333e3606587" />
 
 ### Real-Time Progress
 Gradient progress bars with speed, ETA, and bytes transferred.
+<img width="1447" height="460" alt="image" src="https://github.com/user-attachments/assets/6308da3c-3a7f-419b-b166-50a47aaabf3f" />
 
 ### Completion Notification
 Satisfying success modal with animated checkmark and download button.
+<img width="1605" height="1268" alt="image" src="https://github.com/user-attachments/assets/69aa32fa-8cbe-43b7-873f-19d6f303ec58" />
 
 ---
 
