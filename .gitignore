@@ -49,6 +49,7 @@ ENV/
 .spyderproject
 .ropeproject
 .vscode/
+.claude/
 node_modules/
 
 downloads/

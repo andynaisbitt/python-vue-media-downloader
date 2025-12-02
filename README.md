@@ -408,12 +408,32 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## ⚠️ Disclaimer
+
+**Educational Use Only**
+
+This project was created for educational purposes and personal use (archiving personal YouTube content). Users are responsible for complying with YouTube's Terms of Service and applicable copyright laws. Only download content you have the rights to or that is explicitly available for download.
+
+For concerns or takedown requests, please contact me via [LinkedIn](https://linkedin.com/in/yourusername).
+
+---
+
+## 👨‍💻 About This Project
+
+Built in early 2024 as a learning project using Vue.js and Flask - my first experience with web frameworks. Since then, I've expanded my skillset to include:
+
+- **TypeScript + React** (frontend)
+- **FastAPI** (Python backend)
+- **TypeScript + Node.js** (backend)
+
+A v2.0 rewrite using **FastAPI + TypeScript Vue** is under consideration to demonstrate growth and explore modern development patterns.
+
+Contributions and feedback are welcome via pull requests or issues.
+
+---
+
 <div align="center">
 
-**Made with ❤️ by developers, for developers**
-
-⭐ Star this repo if you find it useful!
-
-[Report Bug](https://github.com/yourusername/youtube-downloader/issues) • [Request Feature](https://github.com/yourusername/youtube-downloader/issues)
+[Report Bug](https://github.com/andynaisbitt/Python-Vue-Media-Downloader/issues) • [Request Feature](https://github.com/andynaisbitt/Python-Vue-Media-Downloader/issues)
 
 </div>
